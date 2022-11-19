@@ -1,4 +1,4 @@
-# Data-Focused-Python-95888-HW4Data Focused Python
+Data Focused Python
 Homework 4
 Mini 2 2022
 
@@ -124,4 +124,4 @@ The by-maturity time series plot and the by-trading-day yield curve plots should
  
 
 When finished, make sure that all teammates are listed as Authors in a comment at the top of your code file(s).  Put your hw4.py source code file into a zip archive named Team_N_HW4.zip file, where N is your team number, then upload your .zip archive to Canvas.
-![image](https://user-images.githubusercontent.com/116749406/202873714-4a218e0c-70ad-4093-8664-1f6d4bc05072.png)
+![image](https://user-images.githubusercontent.com/116749406/202873905-8c86b1fa-09e2-4907-b6c9-03b628ac37ea.png)
